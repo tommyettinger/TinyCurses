@@ -1,4 +1,4 @@
-/*TinyCurses by Bryan Strait. This library is copyrighted under the LGPLv3,*/
+/*TinyCurses by "B.". This library is copyrighted under the LGPLv3,        */
 /*or (at your option) any later version.                                   */
 /*For more information, see: http://www.gnu.org/copyleft/lgpl.html         */
 /*Version 1.0a                                                             */
