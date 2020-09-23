@@ -5,5 +5,5 @@ LIBS=`sdl-config --libs` -lSDL_ttf
 all: TinyCurses
 
 TinyCurses: TinyCurses.o
-        $(CC) -shared $(CFLAGS) $(LIBS) -o TinyCurses.so
+	$(CC) -shared $(CFLAGS) $(LIBS) -o TinyCurses.so
 
